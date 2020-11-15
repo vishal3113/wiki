@@ -1,3 +1,3 @@
 # wiki
 
-The Boost GitHub Wiki
+The Boost C++ GitHub Wiki
